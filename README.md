@@ -5,6 +5,11 @@
 [![Arduino](https://img.shields.io/badge/framework-Arduino-00979d?logo=arduino)](https://www.arduino.cc/)
 [![License](https://img.shields.io/badge/license-MIT-6c757d)](LICENSE)
 
+> **This is a fork.** It adds certificate-checked HTTPS, a daylight-saving fix, a fix for the
+> timers that stop after ~49.7 days of uptime, and optional 12-hour clock, night mode and
+> Bitcoin pages. See [FORK-CHANGES.md](FORK-CHANGES.md). The original is
+> [IdefixRC/Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy).
+
 **A tiny friend for the side of your monitor.** It pulls faces at you, follows your movements with its eyes, and in its spare time tells you the weather, the date, the moon phase, your stock ticker, and your GitHub stats.
 
 <!-- SHOT: hero.jpg - Monitor-Buddy clipped to the right edge of a monitor, screen showing the animated face, taken slightly from the side so you can see the printed holder -->
